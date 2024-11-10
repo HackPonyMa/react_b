@@ -4,3 +4,6 @@ a {
 div {
   border: 1;
 }
+html {
+    margin: 0;
+}
